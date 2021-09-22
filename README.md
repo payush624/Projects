@@ -8,8 +8,8 @@ Welcome to my Projects feel free to explore and provide feedback on my work.
 
 ## 📚 Table of Contents
 
-- [Python Project](#Python-Projects)
-- [SQL Project](#sql-projects)
+- [Python Project](#Python-Project)
+- [SQL Project](#sql-project)
 
 
 _Ayush's note: Click on the project's title (**bold** and coloured in Blue) to view my projects! Thank you! ☺️_
