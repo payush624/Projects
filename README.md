@@ -2,16 +2,17 @@
 
 # 🗺 Projects
 
-Hi there! 🙋🏻‍♀️
+Hello there! 🙋🏻‍♀️
 
 Welcome to my Projects feel free to explore and provide feedback on my work.
 
 ## 📚 Table of Contents
 
-- [SQL Projects](#sql-projects)
 - [Python Projects](#Python-Projects)
+- [SQL Projects](#sql-projects)
 
-_Katie's note: Click on the project's title (**bold** and coloured in Blue) to view my projects! Thank you! ☺️_
+
+_Ayush's note: Click on the project's title (**bold** and coloured in Blue) to view my projects! Thank you! ☺️_
 ***
 # Python Projects
 
