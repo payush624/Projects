@@ -45,3 +45,12 @@ Analysed Sales data of a store from 2015-2018 and provided insights to business 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Power BI
 
+## 🏊 [Olympic Games Analysis](https://github.com/payush624/Olympic-Games-Analysis)
+
+Designed and built an interactive Dashboard using Power BI
+
+Insights:
+1. United States of America won most Medals i.e 113. 
+2. Five new sports have been added to the programme for the Olympic Games Tokyo   2020 – karate, skateboarding, sport climbing, softball/baseball and surfing.
+3. The Games featured 339 events in 33 different sports, encompassing a total of 50 disciplines.
+
