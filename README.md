@@ -10,6 +10,7 @@ Welcome to my Projects feel free to explore and provide feedback on my work.
 
 - [Python Project](#Python-Project)
 - [SQL Project](#sql-project)
+- [Power BI](#Power-BI)
 
 
 _Ayush's note: Click on the project's title (**bold** and coloured in Blue) to view my projects! Thank you! ☺️_
@@ -40,3 +41,7 @@ Analysed Sales data of a store from 2015-2018 and provided insights to business 
 - Temporary Table
 - Stored Procedure
 - Aggregations, Group by, Order by, limits.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Power BI
+
