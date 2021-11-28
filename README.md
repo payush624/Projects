@@ -43,6 +43,14 @@ Analysed Sales data of a store from 2015-2018 and provided insights to business 
 - Aggregations, Group by, Order by, limits.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Machine Learning
+
+## [Machine Learning Projects](https://github.com/payush624/Machine-Learning-Projects)
+
+Worked on different dataset using Machine Learning Algorithms 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Power BI
 
 ## 🏊 [Olympic Games Analysis](https://github.com/payush624/Olympic-Games-Analysis)
