@@ -17,6 +17,8 @@ _Ayush's note: Click on the project's title (**bold** and coloured in Blue) to v
 ***
 # Python Project
 
+##  [Airbnb Analysis](https://github.com/payush624/Airbnb-Analysis-/blob/main/Airbnb_Analysis_of_NewYorkCity.ipynb)
+
 ##  [Netflix Exploratory Data Analysis](https://github.com/payush624/Netflix-Exploratory-Data-Analysis)
 
 ##  [Global Suicide Analysis](https://github.com/payush624/Global-Suicide-Analysis)
