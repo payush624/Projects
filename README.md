@@ -17,6 +17,8 @@ _Ayush's note: Click on the project's title (**bold** and coloured in Blue) to v
 ***
 # Python Project
 
+## [Disaster Tweet - Natural Language Processing](https://github.com/payush624/Disaster-Tweets---Natural-Language-Processing/blob/main/Disaster_Tweets_Kaggle_Compitition.ipynb)
+
 ##  [Airbnb Analysis](https://github.com/payush624/Airbnb-Analysis-/blob/main/Airbnb_Analysis_of_NewYorkCity.ipynb)
 
 ##  [Netflix Exploratory Data Analysis](https://github.com/payush624/Netflix-Exploratory-Data-Analysis)
